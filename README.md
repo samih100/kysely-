@@ -1,1 +1,1 @@
-# Flutterilla tehty typerä kysely :-)
+# Flutterilla tehty kysely :-)
